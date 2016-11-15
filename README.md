@@ -8,9 +8,9 @@ apt-get install httpie jq
 
 ## FEATURES
 
-### NOTE
+### PLEASE NOTE
 
-hat every constructors call resets global $QUERY variable
+that every constructors call resets global $QUERY variable
 to parent context, means API resource reusage (and shell piping)
 is not possible after querying different url
 
