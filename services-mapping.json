@@ -1,0 +1,210 @@
+[
+  {
+    "alias": "billing-app",
+    "artifactid": "billing-app-ear",
+    "artifactid_": "billing-srv",
+    "groupid": "org.ustaxi.app.billing",
+    "groupid_": "com.fasten",
+    "hostname": "billing-srv",
+    "packaging": "ear"
+  },
+  {
+    "alias": "",
+    "artifactid": "customer-ear",
+    "artifactid_": "customer-srv",
+    "groupid": "org.ustaxi.app",
+    "groupid_": "com.fasten",
+    "hostname": "customer-srv",
+    "packaging": "ear"
+  },
+  {
+    "alias": "",
+    "artifactid": "core-webapp",
+    "artifactid_": "driver-srv",
+    "groupid": "com.neklo.ustaxi",
+    "groupid_": "com.fasten",
+    "hostname": "driver-srv",
+    "packaging": "war"
+  },
+  {
+    "alias": "",
+    "artifactid": "geo-app-ear",
+    "artifactid_": "geo-srv",
+    "groupid": "org.ustaxi.app.geo",
+    "groupid_": "com.fasten",
+    "hostname": "geo-srv",
+    "packaging": "ear"
+  },
+  {
+    "alias": "",
+    "artifactid": "guarantee-srv",
+    "artifactid_": "guarantee-srv",
+    "groupid": "org.ustaxi.app",
+    "groupid_": "com.fasten",
+    "hostname": "guarantee-srv",
+    "packaging": "war"
+  },
+  {
+    "alias": "",
+    "artifactid": "heatmap-ear",
+    "artifactid_": "heatmap-srv",
+    "groupid": "com.fasten",
+    "groupid_": "com.fasten",
+    "hostname": "heatmap-srv",
+    "packaging": "ear"
+  },
+  {
+    "alias": "",
+    "artifactid": "manager",
+    "artifactid_": "manager-srv",
+    "groupid": "org.ustaxi.app.manager",
+    "groupid_": "com.fasten",
+    "hostname": "manager-srv",
+    "packaging": "ear"
+  },
+  {
+    "alias": "",
+    "artifactid": "notify-app-ear",
+    "artifactid_": "notify-srv",
+    "groupid": "org.ustaxi.app.notify",
+    "groupid_": "com.fasten",
+    "hostname": "notification-srv",
+    "packaging": "ear"
+  },
+  {
+    "alias": "",
+    "artifactid": "order",
+    "artifactid_": "order-srv",
+    "groupid": "org.ustaxi.app.order",
+    "groupid_": "com.fasten",
+    "hostname": "order-srv",
+    "packaging": "ear"
+  },
+  {
+    "alias": "",
+    "artifactid": "polygon",
+    "artifactid_": "polygon-srv",
+    "groupid": "org.ustaxi.app.polygon",
+    "groupid_": "com.fasten",
+    "hostname": "polygon-srv",
+    "packaging": "ear"
+  },
+  {
+    "alias": "",
+    "artifactid": "priority",
+    "artifactid_": "priority-srv",
+    "groupid": "org.ustaxi.app.priority",
+    "groupid_": "com.fasten",
+    "hostname": "priority-srv",
+    "packaging": "ear"
+  },
+  {
+    "alias": "promo-app",
+    "artifactid": "promo-app-ear",
+    "artifactid_": "promo-srv",
+    "groupid": "org.ustaxi.app.promo",
+    "groupid_": "com.fasten",
+    "hostname": "promo-srv",
+    "packaging": "ear"
+  },
+  {
+    "alias": "",
+    "artifactid": "public-api-srv",
+    "artifactid_": "publicapi-srv",
+    "groupid": "org.ustaxi.app",
+    "groupid_": "com.fasten",
+    "hostname": "publicapi-srv",
+    "packaging": "war"
+  },
+  {
+    "alias": "",
+    "artifactid": "shift",
+    "artifactid_": "shift-srv",
+    "groupid": "org.ustaxi.app.shift",
+    "groupid_": "com.fasten",
+    "hostname": "shift-srv",
+    "packaging": "ear"
+  },
+  {
+    "alias": "",
+    "artifactid": "stat",
+    "artifactid_": "statistics-srv",
+    "groupid": "org.ustaxi.app.stat",
+    "groupid_": "com.fasten",
+    "hostname": "statistics-srv",
+    "packaging": "ear"
+  },
+  {
+    "alias": "",
+    "artifactid": "tariff",
+    "artifactid_": "tariff-srv",
+    "groupid": "org.ustaxi.app.tariff",
+    "groupid_": "com.fasten",
+    "hostname": "tariff-srv",
+    "packaging": "ear"
+  },
+  {
+    "alias": "",
+    "artifactid": "tick-srv-ear",
+    "artifactid_": "tick-srv",
+    "groupid": "org.ustaxi.app.tick",
+    "groupid_": "com.fasten",
+    "hostname": "tick-srv",
+    "packaging": "ear"
+  },
+  {
+    "alias": "",
+    "artifactid": "tracking",
+    "artifactid_": "tracking-srv",
+    "groupid": "org.ustaxi.app.tracking",
+    "groupid_": "com.fasten",
+    "hostname": "tracking-srv",
+    "packaging": "ear"
+  },
+  {
+    "alias": "",
+    "artifactid": "manager-gateway",
+    "artifactid_": "manager-gtw",
+    "groupid": "com.neklo.ustaxi",
+    "groupid_": "com.fasten",
+    "hostname": "manager-gtw",
+    "packaging": "war"
+  },
+  {
+    "alias": "",
+    "artifactid": "driver-gateway",
+    "artifactid_": "driver-gtw",
+    "groupid": "com.neklo.ustaxi",
+    "groupid_": "com.fasten",
+    "hostname": "driver-gtw",
+    "packaging": "war"
+  },
+  {
+    "alias": "",
+    "artifactid": "customer-gateway",
+    "artifactid_": "customer-gtw",
+    "groupid": "com.neklo.ustaxi",
+    "groupid_": "com.fasten",
+    "hostname": "customer-gtw",
+    "packaging": "war"
+  },
+  {
+    "alias": "",
+    "artifactid": "push-gateway-ear",
+    "artifactid_": "push-gtw",
+    "groupid": "org.ustaxi.push-gateway",
+    "groupid_": "com.fasten",
+    "hostname": "push-gtw",
+    "packaging": "ear"
+  },
+  {
+    "alias": "",
+    "artifactid": "call-gateway",
+    "artifactid_": "call-gtw",
+    "groupid": "com.neklo.ustaxi",
+    "groupid_": "com.fasten",
+    "hostname": "call-gtw",
+    "packaging": "war"
+  }
+]
+
